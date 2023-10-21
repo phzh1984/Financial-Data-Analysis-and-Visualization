@@ -1,4 +1,4 @@
-# Financial-Hedging-Data-Analysis-and-Visualization
+# Financial-Data-Analysis-and-Visualization
 
 Description:
 
